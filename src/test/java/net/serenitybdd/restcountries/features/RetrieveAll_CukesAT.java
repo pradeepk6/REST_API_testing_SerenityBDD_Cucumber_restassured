@@ -6,8 +6,8 @@ import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
-        tags = {"~@wip"},
+        tags = {""},
         features={"src/test/resources/features/all/all_country_names.feature"}
         )
-public class RetrieveAll {
+public class RetrieveAll_CukesAT {
 }

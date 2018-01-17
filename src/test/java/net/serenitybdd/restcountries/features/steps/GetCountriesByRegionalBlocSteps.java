@@ -4,7 +4,7 @@ import cucumber.api.PendingException;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-public class GetCountriesByRegionalBloc {
+public class GetCountriesByRegionalBlocSteps {
 
 
     @When("^a user retrieves all details of all countries in regionalbloc (.*)$")

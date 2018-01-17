@@ -10,5 +10,5 @@ import org.junit.runner.RunWith;
         features={"src/test/resources/features/fullname/fullname.feature",
                   "src/test/resources/features/regionalbloc/regionalbloc.feature"}
                   )
-public class RetrieveByFullName {
+public class RetrieveByFullName_CukesAT {
 }

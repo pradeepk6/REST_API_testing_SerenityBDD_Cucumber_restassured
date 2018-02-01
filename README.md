@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/pradeepk6/REST_API_testing_SerenityBDD_Cucumber_restassured.svg?branch=master)](https://travis-ci.org/pradeepk6/REST_API_testing_SerenityBDD_Cucumber_restassured)
 ##### About:
 REST API-testing in Java for website : https://restcountries.eu
 
